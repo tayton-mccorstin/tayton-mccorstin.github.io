@@ -1,0 +1,21 @@
+/* === For your Responsive CSS === */
+img {
+max-width: 100%; }
+@media screen and (max-width:600px)
+{
+#splash {
+font-size: 2rem;
+line-height: 2.5rem;height: 10.7rem; } 
+}
+
+@media screen and (max-width:600px){ header {
+grid-template-columns: 100%; }
+}
+#nav a {
+display: block;
+background-color: orange;
+text-align: center;
+padding: 7px;}
+#logo{
+    text-align: center;
+}
