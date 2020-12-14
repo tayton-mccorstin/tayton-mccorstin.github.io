@@ -1,0 +1,91 @@
+@media screen and (max-width: 930px) and (min-width: 600px){
+	h1 {
+		font-weight: 400;
+		font-size: 3.5em;
+	}
+
+	h2 {
+		font-weight: 300;
+		font-size: 1.15em;
+	}
+
+	li a {
+	  	color: #ffffff;
+	  	text-align: center;
+
+	}
+
+
+
+
+@media screen and (max-width: 1000px) and (min-width: 600px){
+	.home {
+		margin-top: 21.5em;
+		line-height: 3em;
+	}
+
+	.home h2 {
+  		line-height: 3em;
+	}
+
+	h1 {
+		font-weight: 400;
+		font-size: 3em;
+	}
+
+	h2 {
+		font-weight: 300;
+		font-size: 1.3em;
+	}
+}
+
+@media screen and (max-width: 950px) and (min-width: 600px){
+	.home {
+		margin-top: 23em;
+		line-height: 2em;
+	}
+}
+
+@media screen and (max-width: 800px) and (min-width: 600px){
+	.menu, .about, .contact {
+		margin-left: 5em;
+		margin-right: 5em;
+	}
+
+	.m-container img {
+		width: 100%;
+	}
+
+	.home {
+		margin-top: 22em;
+	}
+}
+
+@media screen and (min-width: 600px) {
+
+
+@media screen and (max-width: 600px) {
+	h1 {
+		font-weight: 400;
+		font-size: 5.5em;
+	}
+
+	h2 {
+		font-weight: 300;
+		font-size: 2.2em;
+	}
+
+	h3 {
+		font-size: 1em;
+	}
+
+	.logo {
+		width: 100px;
+		margin: 15px;
+		margin-left: 50px;
+	}
+
+	.nav {
+		display: none;
+
+}
